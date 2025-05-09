@@ -4,4 +4,4 @@ We follow the [Contributor Covenant](https://www.contributor-covenant.org/versio
 
 * Be respectful.
 * Assume good intent.
-* Report abuse to the maintainers at **maintainers@example.com**.
+* Report abuse to the maintainers at **vishal.im@gmail.com**.
