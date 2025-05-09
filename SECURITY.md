@@ -8,4 +8,4 @@
 
 ## Reporting a Vulnerability
 
-Please email **security@example.com** with a detailed report. We will acknowledge within 48 hours and work with you on disclosure.
+Please email **vishal.im@gmail.com** with a detailed report. We will acknowledge within 48 hours and work with you on disclosure.
